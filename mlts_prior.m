@@ -1,7 +1,7 @@
 %To implement robust regression with least trimmed squares
 % Parameters:
-% x: P
-% y: M
+% x: P - probability of brain tissue
+% y: M - dealtaM
 % P: P_rank
 % M: M_rank
 % alpha: timming proportion
